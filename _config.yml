@@ -26,12 +26,20 @@ collections:
     permalink: "/:collection/:path/"
     output: true
 
+  other:
+    permalink: "/:collection/:path/"
+    output: true
+
 just_the_docs:
   collections:
     support:
       name: Support
-      nav_fold: true
+      nav_fold: false
 
     guides:
       name: Guides
+      nav_fold: true
+
+    other:
+      name: Other
       nav_fold: true
