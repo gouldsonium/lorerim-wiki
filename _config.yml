@@ -1,8 +1,36 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Lorerim Wiki
+description: A wiki for documentation, tips and guides on the Lorerim modlist
 theme: just-the-docs
-
-url: https://just-the-docs.github.io
+color_scheme: lorerim
+logo: "/assets/logos/logo.png"
+favicon_ico: "/assets/logos/logo-square.png"
+url: https://github.com/gouldsonium/the-modding-bungalo
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Discord: https://discord.gg/bungalo
+  Wabbajack: https://www.wabbajack.org
+  Nexus: https://www.nexusmods.com/skyrimspecialedition/mods/112590
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2024 Gouldsonium"
+
+collections:
+  support:
+    permalink: "/:collection/:path/"
+    output: true
+
+  guides:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    support:
+      name: Support
+      nav_fold: true
+
+    guides:
+      name: Guides
+      nav_fold: true

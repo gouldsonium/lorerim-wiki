@@ -1,0 +1,27 @@
+@import "./color_schemes/dark";
+
+$link-color: #ffdf58;
+$nav-child-link-color: #ffffff;
+$sidebar-color: #3a241b;
+$body-background-color: #3a241b;
+$body-text-color: #ffffff;
+$body-heading-color: #ffffff;
+$code-background-color: #462B53;
+$btn-primary-color: #ffdf58;
+$feedback-color: darken(#3a241b, 3%);
+$table-background-color: darken(#3a241b, 3%);
+$search-background-color: #3a241b;
+$search-result-preview-color: #ffffff;
+$border-color:  darken(#3a241b, 3%);;
+
+.youtube-container{
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  height: auto;
+}
+th{
+  background-color: #ffdf58;
+}
