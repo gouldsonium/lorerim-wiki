@@ -43,7 +43,10 @@ This list is challenging but it is up to you, the player, to overcome those chal
 
 Owing to the need to clean master files and certain errors with Wabbajack, LoreRim only supports **English Steam** versions of Skyrim Anniversary Edition. **GOG and other Languages are not supported**. The specific version used is 1.5.97 with the creation club content from 1.6.1170.
 
-**LORERIM REQUIRES THE FULL PAID UPDATE TO SKYRIM ANNIVERSARY EDITION. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS**
+{: .warning}
+> **WARNING**
+>
+>LORERIM REQUIRES THE FULL PAID UPDATE TO SKYRIM ANNIVERSARY EDITION. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS
 
 ***
 
@@ -69,10 +72,11 @@ LoreRim requires a mid-tier modern system to run to its fullest potential. The r
 | Storage | M.2 SSD
 | GPU | RTX 4070 or better/equivalent
 
-Space required: ~300GB Download Size ~250GB install Size ~550GB Total
+**Space Required:**: 300GB Download Size ~250GB install Size ~550GB Total
 
-See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html
+See how to setup a page file [here](https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html)
 
+{: .important}
 **NOTE**: AMD RX 580 and older cards are **not supported**.
 
 ## Installation
@@ -102,10 +106,21 @@ Prior to installing LoreRim, please complete the following steps.
 
 Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
+{: .important}
 **NOTE**: LoreRim will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**.
 
 **Installation Video:**
-https://www.youtube.com/watch?v=nApuOZWp12c
+
+<div class="youtube-container">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    src="https://www.youtube.com/embed/nApuOZWp12c?si=LCdF66V9P1cpFXF0" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 #### Downloading and Installing LoreRim
 
@@ -143,6 +158,17 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 	- If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 ## Post-Installation
+
+<div class="youtube-container">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    src="https://www.youtube.com/embed/6aRAmskgGVo?si=FGo5vdPvBhyHakkR" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 ### Stock Game & Root Builder
 
@@ -188,9 +214,8 @@ You are welcome to change any others to achieve your desired setup.
 
 After creating your character, you will be given an option to use 25 tokens to pick starting gear. You also have a "Choose Birthsign" Power that lets you choose a starting Birthsign (replaces standing stones). 
 
-MAKE SURE TO OPEN UP YOUR INVENTORY TO INITIALIZE REQUIREM STARTUP BEFORE LEAVING THE STARTING CAVE.
-
-After you leave the cave, you will be given a choice to follow a starting diety. It is recommended you listen to Hadvar/Ralof's full dialogue before leaving the area. 
+{: .warning}
+MAKE SURE TO OPEN UP YOUR INVENTORY TO INITIALIZE REQUIREM STARTUP.
 
 ### Default Hotkeys
 

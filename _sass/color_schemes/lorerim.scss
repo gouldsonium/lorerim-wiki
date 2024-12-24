@@ -2,8 +2,8 @@
 
 $link-color: #ffdf58;
 $nav-child-link-color: #ffffff;
-$sidebar-color: #3a241b;
-$body-background-color: #3a241b;
+$sidebar-color: #3a241b00;
+$body-background-color: #3a241b00;
 $body-text-color: #ffffff;
 $body-heading-color: #ffffff;
 $code-background-color: #462B53;
@@ -12,9 +12,11 @@ $feedback-color: darken(#3a241b, 3%);
 $table-background-color: darken(#3a241b, 3%);
 $search-background-color: #3a241b;
 $search-result-preview-color: #ffffff;
-$border-color:  darken(#3a241b, 3%);
+// $border-color: darken(#3a241b, 3%);
+$border-color: #3a241b;
 $base-button-color: darken(#3a241b, 3%);
 $btn-primary-color: $blue-200;
+$content-width: 65rem;
 
 .youtube-container{
   position: relative;
@@ -26,4 +28,35 @@ $btn-primary-color: $blue-200;
 }
 th{
   background-color: #ffdf58;
+}
+
+body {
+  background: url('/assets/background.png') no-repeat center top fixed;
+  background-size: cover;
+}
+body:before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.75); /* Adjust opacity as needed */
+  z-index: -1;
+}
+
+.important{
+  background: rgba(231, 175, 6, 0.5);
+  border-left: 4px solid #ffeb82;
+  border-radius: 4px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+  padding: 0.8rem;
+}
+
+.warning{
+  background: rgba(221, 46, 46, 0.5);
+  border-left: 4px solid #f77e7e;
+  border-radius: 4px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+  padding: 0.8rem;
 }
