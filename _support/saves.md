@@ -19,7 +19,7 @@ If you want to load a save, only do so by quitting out and re-launching Lorerim 
 **Things you should avoid when saving:**
 - Don't save during combat
 - Don't save during heavily scripted sequences, such as from some quests
-- Don't save immediatly after entering a cell (give it a few seconds)
+- Don't save immediately after entering a cell (give it a few seconds)
 - Don't save in quick succession, give it at least a minute or two
 - Don't load from an ongoing session, as described above
 
