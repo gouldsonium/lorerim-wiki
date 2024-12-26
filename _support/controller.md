@@ -4,59 +4,21 @@ title: Controller Support
 nav_order: 3
 ---
 # Controller Set Up and Installation Guide
-###### By theDudeStandard
-A controller mapping mod primarily intended for Biggie Boss's LoreRim.
-Requires the Steam Controller Mapping the link is on the Files download details.
-Maps controller for TKDodge, One-Click Power Attack, Bow Rapid Combo, Wheeler, Stances, Simple Horses, Nether Follower Framework, Helmet Toggle, Bestia
-## Step 1: Delete or Deactivate `ControlMap_Custom`
+###### By theDudeStandard & Emppaxis
 
-- **In LoreRim:**  
-  Under the "Controller Support - MAKE SURE TO DISABLE KEYBOARD MAP" separator:
-  - Deactivate the `"LoreRim - Keyboard Map (Disable for Controller Support)"` mod.
-  - Activate `"Controller Map - VISIT NEXUS PAGE FOR MORE TIPS"`.
+# Step 1: Enable controller map
+Open the Controller Support separator: disable the Lorerim Keyboard map and enable the Controller map. You can find alternate mapping configurations within the controller map mod.
 
-- **In Other Mod Lists:**  
-  - Install and activate the Controller Map mod.
-  - Search for `ControlMap_Custom` and delete all files found.
+![Image]({{ site.baseurl }}/assets/guides/controller/modlist.png)
 
-## Step 2: Apply Steam Controller Layout
+# Step 2: Get the steam controller mapping
+The link for the steam controller mapping is available in the instructions/readme. Paste the link into the address bar of your browser and when prompted click to open with steam. Make sure you have a controller plugged in and steam running.
+If you do not get the prompt to open with steam, try disabling any ad blockers or use a private browser window.
 
-- Paste the link in your browser (found in the download details):  
-  `steam://controllerconfig/489830/3306747634`
-- Select "Open Steam" & "Apply Layout" (controller must be on).
+![Image]({{ site.baseurl }}/assets/guides/controller/steamconfig.png)
+![Image]({{ site.baseurl }}/assets/guides/controller/open.png)
 
-## Step 3: Download and Activate in MO2
+# Step 3: Apply the controller mapping
+Once the link has been opened in steam, it should bring up the controller layout window, which will show the button mappings and have a prompt at the bottom to apply the layout. Make sure the layout title at the top centre matches the control map you wish to apply and then hit the apply layout button.
 
-- **Load Order:** Last active mod.
-
-## Step 4: Button Mapping & Button Swapping
-
-- Refer to `Button Mapping.txt` for more details.
-
-## Step 5: Mapping Taunt In-Game
-
-- In the `Taunt / Remote Int MCM Menu`, map Taunt to the `N` key.
-
-## Available Button Swaps
-
-To swap button configurations:
-1. In the Mod Folder: `Controller LoreRim 2.0\interface\controls\pc`
-2. Delete the file named `Controlmap`.
-3. Copy the `Controlmap` file you want to use.
-4. Rename it to `Controlmap`.
-
-### Options Available:
-1. `controlmap` (L3=Dodge+Sprint & Y=Jump) [default]
-2. `controlmap` (L3=Dodge+Sprint & A=Jump)
-3. `controlmap` (B=Dodge+Sprint & A=Jump)
-4. `controlmap` (B=Dodge+Sprint & Y=Jump)
-
-## Changing the Configuration to Match Your Playstyle
-
-**Recommendation:** Use Skyrim Control Mapper to edit the `ControlMap.ini` file.  
-- Map to the location of the file in your mod folder.
-- The SHIFT mapping is set to `LB`. If you decide to switch the SHIFT button, you will need to remap that button in every line of the `.ini` file and the Steam Mapping.
-  - *(Example: If you switch to `RB`, you will need to map SHOUT to `LB` in `ControlMap.ini` and edit the Steam mapping to use `RB` as the Chord Button for `LB`, `RB`, `LT`, `RT`.)*
-
-**Credit**  
-Thanks to the mod authors for their awesome mods. I've included their `.ini` files to modify the key mapping. **(DO NOT ASK THEM QUESTIONS)**
+![Image]({{ site.baseurl }}/assets/guides/controller/layout.png)
