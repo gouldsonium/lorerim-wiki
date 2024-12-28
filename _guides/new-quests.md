@@ -4,7 +4,7 @@ title: New Quests
 nav_order: 6
 ---
 # Lorerim Quest Mods Overview
-###### By TheIncredibleSad
+###### By TheIncredibleSad & WhisperDealer
 
 Lorerim comes with several new quest mods, from expansions of vanilla quests to DLC-sized mods that expand upon the game. This guide will help indicate how to start them.
 
