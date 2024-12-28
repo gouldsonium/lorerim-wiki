@@ -15,7 +15,7 @@ Open the Controller Support separator: disable the Lorerim Keyboard map and enab
 The link for the steam controller mapping is available in the instructions/readme. Paste the link into the address bar of your browser and when prompted click to open with steam. Make sure you have a controller plugged in and steam running.
 If you do not get the prompt to open with steam, try disabling any ad blockers or use a private browser window.
 
-[steam://controllerconfig/489830/3377557668](steam://controllerconfig/489830/3377557668)
+[steam://controllerconfig/489830/3394463567](steam://controllerconfig/489830/3394463567)
 
 ![Image]({{ site.baseurl }}/assets/guides/controller/steamconfig.png)
 ![Image]({{ site.baseurl }}/assets/guides/controller/open.png)
