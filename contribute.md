@@ -12,12 +12,7 @@ Be sure to checkout the the Github repo and click the issues tabe where you can 
 
 ## To Do
 
-- Player Homes Guide
-- Traits Guide
-- Update Followers for 3.0
 - Update new quests for 3.0
+- Player Homes Guide
 - Profile guide
 - Perks Guide
-- Update Bestiary Guide for 3.0
-- Update Controller Guide for 3.0
-

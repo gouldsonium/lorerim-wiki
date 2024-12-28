@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 # The Dragonborn's Bestiary
-###### By WhisperDealer
+###### By WhisperDealer & Patman
 
 ![image](https://i.imgur.com/bomD23i.png)
 Adds a new custom menu to the game. Collect information about the creatures you encounter, learn their strengths and weaknesses, and keep track of your feats with kill, summon and transformation counters.
@@ -88,6 +88,27 @@ By default its `K` on the keyboard, dudestandard has added a shortcut for contro
 Simply activating peaceful creatures will add them to the Bestiary while enemy types are added after you have defeated one.
 
 Additionally reading books like *Bestiary of Skyrim* will unlock entries.
+
+---
+
+## 3.0 Update
+Lorerim's 3.0 update came with a plethora if new content and with it came several updates to the bestiary. Or as it is now known as *the travellers guide* as it has gone beyond a bestiary.
+
+**Expanded Lore Entries:** Significant enhancements have been made to numerous lore entries, offering deeper insights into the backstories and characteristics of various creatures and entities. Expect richer details that add depth to the world and its inhabitants.
+
+**Improved Creature Images:** Several creature images have been updated, providing more detailed and visually striking representations of the creatures to better immerse players in the experience.
+
+**New Creatures Added:** A variety of new and exciting creatures have been introduced, each with unique behaviors, abilities, and lore to discover. These additions enhance the diversity and challenge within the game world.
+
+**Integrated Addons & Armor Patches:** The Addons and Armor patches have now been seamlessly integrated into this patch for streamlined compatibility. The armor patch adds information about the new custom Lorerim armor bonuses.
+
+**Integrated Weapons Patch:** A showcase of the custom bonuses added in Lorerim, this patch showcases the unique enhancements for various weapons. These bonuses, tailored to each weapon’s lore and design, become accessible through the Craftsman training, adding depth and strategy to your arsenal.
+
+**New Integrated Races Patch!:** A showcase of the racial lore in Skyrim, this patch provides detailed descriptions of each race's unique background and history. These entries, deeply rooted in Elder Scrolls lore, offer a richer understanding of the diverse cultures and identities that define Skyrim's inhabitants, past and present.
+
+**New Integrated Quests Patches:** All my quest patches have now been added to the main 3.0 Lorerim patch
+
+---
 
 ## Learn more
 If you'd like to learn more, checkout the patch mod on the Nexus [here](https://www.nexusmods.com/skyrimspecialedition/mods/125957).

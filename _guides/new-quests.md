@@ -55,6 +55,41 @@ More detailed information on the cave location and a full walkthrough of the que
 
 *Clockwork* is a quest and player home mod centered around a castle high in the mountains that has been long forgotten. This quest has no starting requirements other than being level 5 and will begin randomly when traveling around Skyrim's wilderness. For those who want to know, the quest will point you towards the "Velothi mountain tunnels" in the far eastern portion of the map. More details on the contents of the castle and the quests themselves are available on the [mod page](https://www.nexusmods.com/skyrimspecialedition/mods/4155). Be warned: this quest has a point of no return early on, meaning you will not be able to return to Skyrim until the quest is completed. This point is very noticeable, so you won't miss it.
 
+## Olenveld
+![image](https://staticdelivery.nexusmods.com/mods/1704/images/133579/133579-1731179223-1305273090.jpeg)
+
+Olenveld is a new lands mod, the size of a small DLC, bringing the lore-rich location of Olenveld to Skyrim. It introduces a unique questline and an island recapturing system. In Olenveld, you won’t be recognized as the Dragonborn. The island’s inhabitants are so isolated from mainland Skyrim that even the main Skyrim questline is unknown to them. You arrive as a mere mortal, seeking answers, attempting to understand what went wrong, and discovering how to help and restore the island. Expect to face fearsome undead foes and waves of relentless enemies. Your decisions will determine the island's fate. You can start the mod by going to septimus signus outpost, walk behind that glacier and going forward until you see a cabin, once inside, pick up the note and venture forth!
+
+## Demon of Dream
+![image](https://staticdelivery.nexusmods.com/mods/1704/images/118719/118719-1714941901-1527777207.png)
+
+A Daedric quest in which you enter the nightmares of three ex-cultists of Vaermina. Includes nightmare-themed spells, enchanted artifacts, and an Atronach Forge-style trading system. Demon of Dream is an unmarked quest centered around 3 ex-cultists of Vaermina, all trapped in their own minds after an attempt to get back at the Mistress of Dream. Encounter several unique enemies, including Vaermina's own minions: The Omen. Whether it be to end their suffering, or to find valuable artifacts and spells, you decide to venture into their minds and defeat their worst nightmares. The quest begins with the acquisition of the Idol of Vaermina, within Cragwallow Slope. There, you will find a note next to the artifact, explaining how it works and where the dreamers can be found.
+
+## Gravewind
+![image](https://staticdelivery.nexusmods.com/mods/1704/images/129582/129582-1726700008-665687739.png)
+
+*Orkey, an enemy god, had always tried to ruin the Nords, even in Atmora where he stole their years away. Seeing the strength of King Wulfharth, Orkey summoned the ghost of Alduin Time-Eater again.* A quest about a realm lost to myth, an ancient city of ghosts, and a small house in the woods. Includes three new groups of magic, unique boss fights, custom enemies, two endings, and more. To begin this quest, travel just northwest of the Roadside Ruins in Falkreath, and enter the abandoned homestead.
+
+{: .important}
+**Note:** you will be trapped from the moment the quest begins
+
+## Wyrmstooth
+![image](https://staticdelivery.nexusmods.com/mods/1704/images/45565/45565-1726183132-1746976862.jpeg)
+
+Wyrmstooth adds a new quest that takes the Dragonborn to the island of Wyrmstooth situated north of Solitude across the Sea of Ghosts. Battle across new landscapes and through new dungeons in this expansion-sized mod. The task may seem simple enough: slay a dragon that's stirring up trouble.  By default Wyrmstooth starts when you reach level 10 and have finished the main quest 'Way of the Voice'. An imperial courier named Theodyn Bienne will track you down starting from the Bannered Mare in Whiterun. You can change these conditions in the MCM to suit your playthrough.
+
+## Carved Brink
+![image](https://staticdelivery.nexusmods.com/mods/1704/images/24351/24351-1553189630-1844394110.jpeg)
+
+Carved Brink is a large quest modification, from the authors of Project AHO. This mod adds to Skyrim: a daedric plan of Peryite - The Pits, and an unknown part of Oblivion - Faceted Stones. One of the many Daedric pocket planes hidden throughout Oblivion. Many years ago, it was inhabited by Snow Elves, but now this place belongs to another race - Goblin. Embark on an adventure for treasure, make unusual acquaintances, and be tested with the trial of the Daedra. To begin the quest, first reach level 10 and visit Abandoned Grotto near Hillgrund’s Tomb and Lost Knife Hideout.
+
+## Undeath
+![image](https://staticdelivery.nexusmods.com/mods/1704/images/6180-0-1481890502.png)
+
+When a powerful necromancer and his followers seek out the forbidden secrets of immortality that could threaten Skyrim, will you defeat him to stop his evil quest, or continue it yourself? 
+
+Uncover a small new questline that will take you to the frigid peaks of the Dragontail Mountains themselves, and beyond, as you pursue a powerful necromancer and his followers, and thwart their plans to acquire powerful artifacts and ingredients for an unholy ritual. What you choose to do with those reagents, and the forbidden knowledge they have stolen however, is up to you
+
 ## Other Quests
 
 There are many other quest mods that have been added. It's worth mentioning that *Saints & Seducers Extended Cut* is another new quest mod detailed in our Quest Guide. Some other quests include:

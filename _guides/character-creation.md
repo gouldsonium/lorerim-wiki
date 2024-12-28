@@ -137,6 +137,7 @@ In 3.0, "Medical History" has been replaced with *Traits* thanks [shazdeh](https
 | Giantkin           | Descended from the mighty giants; you gain +20% magic resistance and damage with blunt weapons, however you cannot read books (WIP) or spell tomes, or use scrolls. |
 | Marathon Runner    | You regenerate 5 stamina per second while sprinting. However, you will not be able to gain any stamina while running or standing still. |
 | Elemental Conduit  | Fire spells are more powerful in sunny weather but lose potency in the rain. Shock spells are enhanced during rain but are less effective in snowy conditions. Frost spells excel in snowy weather but weaken under sunny skies. |
+| Witcher            | 3 potion effects and potions and poisons you make are 20% stronger |
 
 This is available as a seperate mod titled Biggie Traits. Click [here](https://www.nexusmods.com/skyrimspecialedition/mods/136384)
 
