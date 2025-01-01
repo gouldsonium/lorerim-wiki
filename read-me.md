@@ -212,7 +212,7 @@ You are welcome to change any others to achieve your desired setup.
 
 ### Starting the Game & Important Information
 
-After creating your character, you will be given an option to use 25 tokens to pick starting gear. You also have a "Choose Birthsign" Power that lets you choose a starting Birthsign (replaces standing stones). 
+After creating your character, you will be given an option to use 50 tokens to pick starting gear. You also have a "Choose Birthsign" Power that lets you choose a starting Birthsign (replaces standing stones). 
 
 {: .warning}
 MAKE SURE TO OPEN UP YOUR INVENTORY TO INITIALIZE REQUIREM STARTUP.

@@ -60,3 +60,7 @@ Each of the cities in Lorerim have been overhauled and included in those changes
 | Breaking Dawn Cottage | Dawnstar   | The key is inside a satchel in Nightcaller Temple, in the dorms. | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/130643) |
 | Bluesky Hall          | Whiterun   | Bought from (NAME HERE) | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/37982) |
 | Graystone Lodge       | Windhelm   | Bought from (NAME HERE) | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/42990) |
+
+# New Town/Village Homes
+
+Some new towns were added in Lorerim 3.0 which came with some player homes. Additionally the smaller towns and villages that already existed have been overhauled which now have a player home.
