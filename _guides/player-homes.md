@@ -7,21 +7,24 @@ nav_order: 11
 ###### By WhisperDealer
 
 {: .important}
-This guide is a work in progress
+>**Note:**
+>
+>This guide is a work in progress, though every home has been added to the list, the how to obtain may be different.
 
 Skyrim came with many homes for the Dragonborn to gain their well rested bonus, from modest homes in the 5 major capitals to building your own via the Hearthfire DLC. Lorerim adds to these options overhauling the existing homes while adding new ones through mods and Creation Club. This guide will show how these homes have changed, what have been added and how to obtain them.
 
 ## Vanilla Homes
 
-In the following cities, all the way back in 2011 we had 5 player homes we could buy.
+In the following cities, all the way back in 2011 we had 5 player homes we could buy. (Plus one from Dragonborn DLC)
 
-| Name             | Location            | How to Obtain |
-|------------------|---------------------|---------------|
-| Breezehome       | Whiterun            | Purchase from Proventus Avenicci after "Bleak Falls Barrow" quest. |
-| Honeyside        | Riften              | Purchase from Anuriel after becoming Thane of the Rift. |
-| Vlindrel Hall    | Markarth            | Purchase from Raerek or Reburrus Quintilius after becoming Thane of the Reach. |
-| Proudspire Manor | Solitude            | Purchase from Falk Firebeard after becoming Thane of Haafingar. |
-| Hjerim           | Windhelm            | Purchase from Jorleif after completing the "Blood on the Ice" quest and becoming Thane of Eastmarch. |
+| Name             | Location               | How to Obtain |
+|------------------|------------------------|---------------|
+| Breezehome       | Whiterun               | Purchase from Proventus Avenicci after "Bleak Falls Barrow" quest. |
+| Honeyside        | Riften                 | Purchase from Anuriel after becoming Thane of the Rift. |
+| Vlindrel Hall    | Markarth               | Purchase from Raerek or Reburrus Quintilius after becoming Thane of the Reach. |
+| Proudspire Manor | Solitude               | Purchase from Falk Firebeard after becoming Thane of Haafingar. |
+| Hjerim           | Windhelm               | Purchase from Jorleif after completing the "Blood on the Ice" quest and becoming Thane of Eastmarch. |
+| Severin Manor    | Raven Rock (Solstheim) | Complete the quest "Served Cold" to be awarded the home |
 
 ## Hearthfire
 
@@ -61,6 +64,18 @@ Each of the cities in Lorerim have been overhauled and included in those changes
 | Bluesky Hall          | Whiterun   | Bought from (NAME HERE) | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/37982) |
 | Graystone Lodge       | Windhelm   | Bought from (NAME HERE) | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/42990) |
 
-# New Town/Village Homes
+## New Town/Village Homes
 
 Some new towns were added in Lorerim 3.0 which came with some player homes. Additionally the smaller towns and villages that already existed have been overhauled which now have a player home.
+
+| Name             | Location          | How to Obtain | Mod |
+|------------------|-------------------|---------------|-----|
+| Vintrhus         | Skaal Village     | Find the key in a knapsack at Snowclad Ruins by the altar with dead animals  | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/53733) |
+| Kynesby          | Kynesgrove        | Bought from a nearby NPC  | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/42639) |
+| NAME HERE        | Amber Guard       | Purchase via the sign next to the home | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/114252)     |
+| NAME HERE        | Granite Hill      | Purchase via the sign next to the home | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/14658)      |
+| The Ebony Keep   | Last Vigil        | Defeat the Ebony Warrior | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/76385) |
+| White Pine Lodge | Bruma             | Complete "Service Rewarded quest" and purchase from Bruma's steward | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/10917) |
+| Fort Valus       | Wyrmstooth        | Purchase an abandoned imperial fort from Lurius Liore | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/45565) |
+| Clockwork Castle | Velothi Mountains | Complete the quest mod | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/4155) |
+| Project AHO      | Sadrith Kegran    | Complete the Project AHO's main quest (correctly) | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/15996) |
