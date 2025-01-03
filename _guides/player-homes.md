@@ -73,7 +73,7 @@ Some new towns were added in Lorerim 3.0 which came with some player homes. Addi
 | Vintrhus         | Skaal Village     | Find the key in a knapsack at Snowclad Ruins by the altar with dead animals  | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/53733) |
 | Kynesby          | Kynesgrove        | Bought from a nearby NPC  | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/42639) |
 | NAME HERE        | Amber Guard       | Purchase via the sign next to the home | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/114252)     |
-| NAME HERE        | Granite Hill      | Purchase via the sign next to the home | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/14658)      |
+| Crossway Cottage | Granite Hill      | Purchase via the sign next to the home | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/14658)      |
 | The Ebony Keep   | Last Vigil        | Defeat the Ebony Warrior | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/76385) |
 | White Pine Lodge | Bruma             | Complete "Service Rewarded quest" and purchase from Bruma's steward | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/10917) |
 | Fort Valus       | Wyrmstooth        | Purchase an abandoned imperial fort from Lurius Liore | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/45565) |
