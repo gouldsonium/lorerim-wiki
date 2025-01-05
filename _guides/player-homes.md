@@ -60,9 +60,9 @@ Each of the cities in Lorerim have been overhauled and included in those changes
 |-----------------------|------------|----------------------------------|-----|
 | Frostview Hall        | Winterhold | Purchase from Winterhold steward | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/17127) |
 | New Moon Cottage      | Morthal    | The key is inside a satchel in Movarth's Lair | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/129512) |
-| Breaking Dawn Cottage | Dawnstar   | The key is inside a satchel in Nightcaller Temple, in the dorms. | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/130643) |
-| Bluesky Hall          | Whiterun   | Bought from (NAME HERE) | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/37982) |
-| Graystone Lodge       | Windhelm   | Bought from (NAME HERE) | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/42990) |
+| Breaking Dawn Cottage | Dawnstar   | The key is inside a satchel in Nightcaller Temple, in the dorms | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/130643) |
+| Bluesky Hall          | Whiterun   | Purchase the deed from Quintus at the market place for 40,000* starting price | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/37982) |
+| Graystone Lodge       | Windhelm   | Purchase the deed from Sadri at Sedri's Used Wares for 1,000 | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/42990) |
 
 ## New Town/Village Homes
 
@@ -72,10 +72,18 @@ Some new towns were added in Lorerim 3.0 which came with some player homes. Addi
 |------------------|-------------------|---------------|-----|
 | Vintrhus         | Skaal Village     | Find the key in a knapsack at Snowclad Ruins by the altar with dead animals  | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/53733) |
 | Kynesby          | Kynesgrove        | Bought from a nearby NPC  | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/42639) |
-| NAME HERE        | Amber Guard       | Purchase via the sign next to the home | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/114252)     |
-| Crossway Cottage | Granite Hill      | Purchase via the sign next to the home | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/14658)      |
+| Cliffside Manor  | Amber Guard       | Purchase via sign next to home for 3,000 (7 upgrades, 800 each). | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/114252)      |
+| Crossway Cottage | Granite Hill      | Obtained after solving the mystery plaguing the town | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/14658)       |
 | The Ebony Keep   | Last Vigil        | Defeat the Ebony Warrior | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/76385) |
 | White Pine Lodge | Bruma             | Complete "Service Rewarded quest" and purchase from Bruma's steward | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/10917) |
 | Fort Valus       | Wyrmstooth        | Purchase an abandoned imperial fort from Lurius Liore | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/45565) |
 | Clockwork Castle | Velothi Mountains | Complete the quest mod | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/4155) |
 | Project AHO      | Sadrith Kegran    | Complete the Project AHO's main quest (correctly) | [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/15996) |
+
+## Other
+
+| Name              | Location            | How to Obtain |
+|-------------------|---------------------|---------------|
+| Drelas' Cottage   | Hjaalmarch          | Kill Drelas   |
+| Black Briar Lodge | The Rift            | Bought from Maven Black-Briar after you become Thane of Riften and completed the quest Promises to Keep. |
+| Dovahkiin's Vault | Throat of the world | Key can be found on a skeleton near Paarthunaax's perching place |
