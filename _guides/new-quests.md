@@ -90,6 +90,14 @@ When a powerful necromancer and his followers seek out the forbidden secrets of 
 
 Uncover a small new questline that will take you to the frigid peaks of the Dragontail Mountains themselves, and beyond, as you pursue a powerful necromancer and his followers, and thwart their plans to acquire powerful artifacts and ingredients for an unholy ritual. What you choose to do with those reagents, and the forbidden knowledge they have stolen however, is up to you
 
+## Forgotten City
+
+![image](https://staticdelivery.nexusmods.com/mods/1704/images/1179-0-1507855099.jpg)
+
+The Forgotten City is the first mod in history to win a national Writers' Guild award for its script. It is a critically acclaimed expansion mod offering a unique 6 - 8 hour experience: a murder mystery investigation set in an ancient underground city. You'll need to solve it using your wits, and the ability to travel through time...
+
+To start this quest you typically have to be level 5 however Lorerim uses the delayed start mod which increases this to **level 25**. You’ll be approached automatically by a courier when you enter any city. Alternatively, you can make your way to the "Forgotten Ruins" in the south-west corner of Skyrim.
+
 ## Other Quests
 
 There are many other quest mods that have been added. It's worth mentioning that *Saints & Seducers Extended Cut* is another new quest mod detailed in our Quest Guide. Some other quests include:
