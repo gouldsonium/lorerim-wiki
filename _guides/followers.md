@@ -85,6 +85,13 @@ The Welkynar Knight is both a follower and a quest mod that involves aiding an e
 
 [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/89510){: .btn }
 
+### Jesper the Guard
+![image](https://staticdelivery.nexusmods.com/mods/1704/images/132362/132362-1729963321-982539430.jpeg)
+
+Jesper the guard is a custom voiced follower who will follow you throughout your adventurs, and maybe sing you a few tunes. You may know him already from the [Skyrim Tales](https://www.tiktok.com/@skyrimtales) series
+
+**Where to find them:** To find him, simply go to the Bannerd Mare upon sarting the game where he'll be waiting for you.
+
 ## Vanilla Followers
 
 All of the vanilla followers listed below have been enhanced with the Follower Dialogue Expansion mod, providing them with hundreds of new lines of dialogue. They are now more aware of the world and people around them, recognizing and commenting on your achievements, and engaging in small talk with other followers.
