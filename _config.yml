@@ -1,10 +1,10 @@
-title: Lorerim Wiki
+title: Lorerim
 description: A wiki for documentation, tips and guides on the Lorerim modlist
 theme: just-the-docs
 color_scheme: lorerim
 logo: "/assets/logos/logo.png"
-favicon_ico: "/assets/logos/logo-square.png"
-url: "https://wiki.lorerim.com"
+favicon_ico: "/assets/logos/LorerimIcon.ico"
+url: "https://lorerim.com"
 baseurl: "" # Leave empty since it's at the root
 
 aux_links:
