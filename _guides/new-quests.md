@@ -47,7 +47,7 @@ More detailed information on the cave location and a full walkthrough of the que
 
 ![image](https://staticdelivery.nexusmods.com/mods/1704/images/15996/15996-1521738495-1159963936.jpeg)
 
-*Project AHO* is a DLC-sized quest mod based around a hidden Dunmer settlement of Great House Telvanni, built over the ruins of a once-great Dwarven city. This expansion includes its own quest line, locations, characters, music, armor, weapons, and spells. To begin this questline, you must be level 15+ and travel to Mixwater Mill located south of Windhelm, where you will be contacted. For more information, including walkthroughs of all quests, please visit the [mod's wiki](https://tes-mods.fandom.com/wiki/Project_AHO) or the [Nexus Mods page](https://www.nexusmods.com/skyrimspecialedition/mods/15996).
+*Project AHO* is a DLC-sized quest mod based around a hidden Dunmer settlement of Great House Telvanni, built over the ruins of a once-great Dwarven city. This expansion includes its own quest line, locations, characters, music, armor, weapons, and spells. To begin this questline, you must be level 15+ and travel to Mixwater Mill located south of Windhelm, where you will be contacted. Lorerim has a delayed start mod which requires you to head to the Braidwood Inn (located at Kynesgrove), talk to Iddra the innkeeper, she will have a note for you to investigate a suspicious orc at Mixwater Mill. On reading the note, Shaglak should find you next time you visit the mill. For more information, including walkthroughs of all quests, please visit the [mod's wiki](https://tes-mods.fandom.com/wiki/Project_AHO) or the [Nexus Mods page](https://www.nexusmods.com/skyrimspecialedition/mods/15996).
 
 ## Clockwork
 
