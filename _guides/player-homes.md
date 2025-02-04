@@ -6,11 +6,6 @@ nav_order: 11
 # Player Homes Guide
 ###### By WhisperDealer
 
-{: .important}
->**Note:**
->
->This guide is a work in progress, though every home has been added to the list, the how to obtain may be different.
-
 Skyrim came with many homes for the Dragonborn to gain their well rested bonus, from modest homes in the 5 major capitals to building your own via the Hearthfire DLC. Lorerim adds to these options overhauling the existing homes while adding new ones through mods and Creation Club. This guide will show how these homes have changed, what have been added and how to obtain them.
 
 ## Vanilla Homes

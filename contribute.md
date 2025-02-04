@@ -10,11 +10,6 @@ Be sure to checkout the the Github repo and click the issues tabe where you can 
 
 [Request a change](https://github.com/gouldsonium/lorerim-wiki/issues/new/choose){: .btn }
 
-## Urgent To Do
-
-- Player Homes Guide
-- Profile guide
-
 ## More to come
 
 We'd like to go more in depth into the lists perks, spells, followers, quests and more to make it as easy as possible for players to find what they need. If you can, feel free to requets a change.
