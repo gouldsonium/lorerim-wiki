@@ -25,9 +25,16 @@ Please checkout these FAQs before posting your question to the discord
   - 4080 for 4k to run smoothly
 
 ### I crash on launch?
-- You didn't disable DLAA, and you don't have an RTX GPU.
-- Disable DLAA and either enable ENB AA or TAA.
-- Enable ENB AA by pressing `Shift + Enter` in-game and navigating to "Anti Aliasing" in the top left.
+You didn’t disable DLAA (DLSS on LoreTrim), and you don’t have an RTX GPU.
+>**LoreRim:**
+> - Disable DLAA and either enable ENB AA or TAA.
+> - Enable ENB AA by pressing Shift + Enter in-game and navigating to “Anti Aliasing” in the top left.
+>
+> **LoreTrim:**
+> - Edit SettingsUser.json from the LoreRim - CS Cache mod. Under General, set Enable Shaders to false.
+> - Run the game and press the End key to open the CS menu.
+> - Under Display -> Upscaling, switch Method to "Temporal Anti-Aliasing"
+> - Under General, enable Shaders and click "Save Settings".
 
 ### I crash with Wheeler.
 - Wheeler can cause crashes in circumstances such as using self-made potions/poisons. I would avoid these.
