@@ -74,9 +74,11 @@ LoreRim requires a mid-tier modern system to run to its fullest potential. The r
 
 **Space Required:**: 300GB Download Size ~250GB install Size ~550GB Total
 
-See how to setup a page file [here](https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html)
+{: .warning}
+> **WARNING**
+> 
+> Setting up pagefile is a required step, see how to setup a page file [here](https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html)
 
-{: .important}
 **NOTE**: AMD RX 580 and older cards are **not supported**.
 
 ## Installation
