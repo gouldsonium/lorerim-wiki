@@ -12,8 +12,6 @@ In vanilla Skyrim this was as simple as picking a race and getting a few advanta
 
 ## Race
 
-This is the principal mod for all basic racial stats: [Link Here](https://www.nexusmods.com/skyrimspecialedition/articles/6669)
-
 Make sure to also check out the attributes you're interested in, rather than just abilities - a lot of races come with very strong attributes - things like reduced power-attack cost or spell cost. 
 If you plan on becoming a Werewolf or Vampire during your playthrough, these also get special bonuses depending on your base race:
 - [Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/31245)
