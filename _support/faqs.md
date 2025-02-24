@@ -32,9 +32,6 @@ You didn’t disable DLAA (DLSS on LoreTrim), and you don’t have an RTX GPU.
 >
 > **LoreTrim:**
 > - Edit SettingsUser.json from the LoreRim - CS Cache mod. Under Upscaling (near the bottom), set "upscaleMethod" to 1.
-> - Run the game and press the End key to open the CS menu.
-> - Under Display -> Upscaling, switch Method to "Temporal Anti-Aliasing"
-> - Under General, enable Shaders and click "Save Settings".
 
 ### I crash with Wheeler.
 - Wheeler can cause crashes in circumstances such as using self-made potions/poisons. I would avoid these.
