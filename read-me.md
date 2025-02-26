@@ -189,13 +189,11 @@ LoreRim comes with several list customization options. There is ultrawide suppor
 
 ### PROFILES:
 
-Using the drop down menu at the top of MO2 you can select from one of 3 profiles.
+Using the drop down menu at the top of MO2 you can select from one of 2 profiles.
 
 - Ultra: Full 3d Tree LODs, grass LODs, Nature of the Wild Lands as the default tree mod, heavier ENB.
 
-- Normal: 2D Tree LODs, no grass LODs, Happy Little Trees as teh default tree mod, lighter ENB.
-
-- Performance: Same as Normal except Community Shaders instead of ENB, lower resolution textures, lower poly meshes, lighter grass mod, lighter INI settings.
+- Normal: 2D Tree LODs, no grass LODs, Happy Little Trees as teh default tree mod, lighter ENB. While ENB is enabled by default, Community Shaders is included and easily enabled in this profile. 
 
 - ALSO NOTE: Saves are NOT compatible between profiles. They each use different mods that cannot be removed mid-playthrough. 
 
