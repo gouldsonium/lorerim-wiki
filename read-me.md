@@ -58,21 +58,21 @@ Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED 
 
 LoreRim requires a mid-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
 
-| Component    | Recommended for 1080p | 
+| Component    | Recommended for 1080p Default Profile| 
 |:--------------:|:-------------:|
-| CPU | 10th Generation i5 or better/equivalent
-| Ram | 16GB DDR4 Ram  + 40GB Pagefile 
+| CPU | 10th Generation i7 or better/equivalent
+| Ram | 32GB DDR4 Ram  + 40GB Pagefile 
 | Storage | SATA SSD or higher
-| GPU | RTX 3060 or better/equivalent
+| GPU | RTX 3060 ti or better/equivalent
 
-| Component    | Recommended for 1440p | 
+| Component    | Recommended for 1440p Ultra Profile| 
 |:--------------:|:-------------:|
 | CPU | 12th Generation i7 or better/equivalent
 | Ram | 32GB DDR4 Ram  + 40GB Pagefile 
 | Storage | M.2 SSD
 | GPU | RTX 4070 or better/equivalent
 
-**Space Required:**: 300GB Download Size ~250GB install Size ~550GB Total
+**Space Required:**: 300GB Download Size ~300GB install Size ~600GB Total
 
 {: .warning}
 > **WARNING**
@@ -215,7 +215,7 @@ You are welcome to change any others to achieve your desired setup.
 
 ### Starting the Game & Important Information
 
-After creating your character, you will be given an option to use 50 tokens to pick starting gear. You also have a "Choose Birthsign" Power that lets you choose a starting Birthsign (replaces standing stones). 
+After creating your character, open your inventory to initialize the Requiem startup. Then, choose an alternate start. After spawning in, you will be given tokens to choose starting gear as well as a list of traits to choose. You also have a birthsign power.
 
 {: .warning}
 MAKE SURE TO OPEN UP YOUR INVENTORY TO INITIALIZE REQUIREM STARTUP.
@@ -242,9 +242,7 @@ Quick Light requires "Lantern With Fuel". To craft lantern fuel, use a cooking p
 
 ### Known Bugs/Crashes
 
-If you are using an AMD GPU, you need to disable DLAA and enable TAA in the SkyrimPrefs.ini located in the profile folder. Otherwise, you WILL crash.
-
-"Crashing" on loading isn't actual crashing. It's the save loader mod exiting the game completely and reloading. It does this to ensure games are safe for long playthroughs.You can disable this in Optional - Gameplay but I recommend leaving it on.
+"Crashing" on loading can occur on any modlist and is not recommended for modded Skyrim. Instead, I highly encourage utalizing the built-in death alternative mod. This prevents needing to reload on death.
 
 Wheeler can cause crashes when assigning self-made potions/poisons/etc and using your last one. If this happens, press home to open dmenu and navigate to wheeler and "reset all wheels".
  
