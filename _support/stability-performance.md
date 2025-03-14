@@ -26,6 +26,15 @@ Setting a Page File **IS MANDATORY**. You can see how to do this [here](https://
 
 Reloading saves frequently in Skyrim can negatively impact the game's stability. Skyrim's engine, known for its quirks, sometimes retains data from previous sessions even after a save is loaded. This can lead to increased memory usage, potential save file corruption, and more frequent crashes. By avoiding frequent reloads and instead playing continuously from a single save point, you help ensure smoother gameplay and reduce the risk of encountering these technical issues. [Learn more](https://www.youtube.com/watch?v=PJPzMAXSprU).
 
+## Close Background Applications 
+
+Close any background appliactions like Chrome or Discord during gameplay to ensure your system can prioritse the list.
+Even on systems with ample RAM, keeping Chrome open still leads to frequent crashes.
+
+## Avoid Minimizing the Game
+
+Avoid minimizing the game (using alt+tab) during gameplay. This can increase stability as leaving the game multiple times can cause crashes.
+
 ## Also Try
 
 - **Lower Resolution:** Try running on a lower resolution. You can set the resolution in `F:\LoreRim\mods\LoreRim - MCM and INI Settings\SKSE\Plugins\SSEDisplayTweaks.ini`.
