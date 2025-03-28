@@ -56,11 +56,6 @@ Gore is a fully voiced, lore-friendly, standalone follower with 4,300+ lines usi
 
 [View Mod](https://www.nexusmods.com/skyrimspecialedition/mods/85298){: .btn }
 
-### Melana the War Maiden
-![image](https://staticdelivery.nexusmods.com/mods/1704/images/129215/129215-1726327561-636776467.png)
-
-Melana is a dynamic custom voiced follower which progresses while adventuring with the player. Not only her attributes change in time, but also her voice and dialog. Voiced by the very talented KiaraRedVA who also wrote half of the voice lines. Rescue a young timid maid and watch her slowly become a fierce warrior.
-
 **Where to find them:** There are two ways to start the intro quest starting version 1.1.0:
 1. Just go to Bannermist Tower and the quest will start.
 2. If you don't have Bannermist Tower on your map or you just want to add some role-play into it - go to Dead Man's Drink inn in Falkreath. Once you enter, the quest will start and point you to Melana's location.
