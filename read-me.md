@@ -50,19 +50,19 @@ Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED 
 
 LoreRim requires a mid-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
 
-| Component    | Recommended for 1080p Default Profile| 
+| Component    | Recommended for 1440p (2K Non-Ultrawide) Default Profile| 
 |:--------------:|:-------------:|
-| CPU | 10th Generation i7 or better/equivalent
+| CPU | 10th Generation i7 Desktop Version or better/equivalent
 | Ram | 32GB DDR4 Ram  + 40GB Pagefile 
 | Storage | SATA SSD or higher
-| GPU | RTX 3060 ti or better/equivalent
+| GPU | RTX 3070 Desktop Version or better/equivalent
 
-| Component    | Recommended for 1440p Ultra Profile| 
+| Component    | Recommended for 1440p (2K Non-Ultrawide) Ultra Profile| 
 |:--------------:|:-------------:|
-| CPU | 12th Generation i7 or better/equivalent
+| CPU | 12th Generation i7 Desktop Version or better/equivalent
 | Ram | 32GB DDR4 Ram  + 40GB Pagefile 
 | Storage | M.2 SSD
-| GPU | RTX 4070 or better/equivalent
+| GPU | RTX 4070 Desktop Version or better/equivalent
 
 **Space Required:**: 300GB Download Size ~300GB install Size ~600GB Total
 
