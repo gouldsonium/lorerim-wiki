@@ -35,6 +35,7 @@ This list is challenging but it is up to you, the player, to overcome those chal
 
 Owing to the need to clean master files and certain errors with Wabbajack, LoreRim only supports **English Steam** versions of Skyrim Anniversary Edition. **GOG and other Languages are not supported**. The specific version used is 1.5.97 with the creation club content from 1.6.1170.
 
+{: .warning}
 > **WARNING**
 >
 >LORERIM REQUIRES THE FULL PAID UPDATE TO SKYRIM ANNIVERSARY EDITION. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS
@@ -63,8 +64,9 @@ LoreRim requires a mid-tier modern system to run to its fullest potential. The r
 | Storage | M.2 SSD
 | GPU | RTX 4070 Desktop Version or better/equivalent
 
-**Space Required:**: 300GB Download Size ~300GB install Size ~600GB Total
+**Space Required:**: 300GB Download Size ~350GB install Size ~650GB Total
 
+{: .warning}
 > **WARNING**
 > 
 > Setting up pagefile is a required step, see how to setup a page file [here](https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html)
