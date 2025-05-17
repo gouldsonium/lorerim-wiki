@@ -185,9 +185,7 @@ Using the drop down menu at the top of MO2 you can select from one of 2 profiles
 
 - Ultra: Full 3d Tree LODs, grass LODs, Nature of the Wild Lands as the default tree mod, heavier ENB.
 
-- Default: 2D Tree LODs, no grass LODs, Happy Little Trees as teh default tree mod, lighter ENB. While ENB is enabled by default, Community Shaders is included and easily enabled in this profile.
-
-ENB is enabled by default for both profiles but you can switch to Community Shaders by disabling everything in ENB Core and ENB Options and enabling everything in Community Shaders
+- Default: 2D Tree LODs, no grass LODs, Happy Little Trees as teh default tree mod, lighter ENB.
 
 {: .important}
 Saves are NOT compatible between profiles. They each use different mods that cannot be removed mid-playthrough.
@@ -207,7 +205,15 @@ You are welcome to change any others to achieve your desired setup.
 
 ### Starting the Game & Important Information
 
-After creating your character, open your inventory to initialize the Requiem startup. Then, choose an alternate start. After spawning in, you will be given tokens to choose starting gear as well as a list of traits to choose. You also have a birthsign power.
+After creating your character, everything will be automated. You will be prompted to choose your starting skills, birthsign, traits and starting location.
+
+Birthsigns are permanent. Each birthsign becomes stronger when you max a certain skill or skills. These replace vanilla standing stones.
+
+You can pick 3 major and 5 minor skills. Major skills give +10 skill bonuses and determine your starting gear. Minor skills give +5 skill bonus.
+
+You can pick up to 2 traits. There is a way to eventually unlock a 3rd trait later in the game.
+
+You can either exit through the main door or pick a starting location by talking to the dragon. You can begin the attack on Helgen by renting the best room at Helgen's inn.
 
 {: .warning}
 MAKE SURE TO OPEN UP YOUR INVENTORY TO INITIALIZE REQUIREM STARTUP.
@@ -222,15 +228,11 @@ All controls are changed either in the in-game settings, MCM menus or in the "Lo
 
 ### Gameplay Tips / Unlocking Cool Mechanics
 
-Your starting dodge will be pretty bad. You can unlock a better version in the Evasion perk tree.
+You can unlock the ability to dodge in first and third person in the evasion tree.
 
 You can unlock starting Dynamic Dodge Shots with bows also in the Evasion Tree.
 
 You can unlock use of a secondary dagger (pulling out a dagger when using your bow) in the One Handed perk tree.
-
-You unlock SkyClimb at lvl 20 sneak. At lvl 50 sneak, light/unarmored users can get a faster more flashy vault animation.
-
-Quick Light requires "Lantern With Fuel". To craft lantern fuel, use a cooking pot with dwemer oil or troll fat. Once you have this, click on it while having an empty lantern in your inventory.
 
 ### Known Bugs/Crashes
 
@@ -250,9 +252,10 @@ Simply delete the folder, and you have uninstalled it.
 ## Credits and Thanks
 
 - _YOU_ for reading this.
+- Shazdeh for SOOOOO many things in LoreRim. Absolute legend.
+- Patman & JPSteele for LoreRim's Bestiary addon.
 - Althro & Ylikollikas for answering all my questions.
-- Bingus, Curly & Aljo for creating Ascensio - upon which LoreRim was built.
-- ShadowSorcery for creating LoreRim's awesome logo.
+- Bingus, Curly & Aljo for creating Ascensio - upon which the first version of LoreRim was built.
 - DiscloApproved for revamping LoreRim's NPCs.
 - Abandoned by Arkay & Camboi for inspiring me to create a Requiem-based modlist.
 - Halgari and everyone on the WJ Team - Wabbajack is awesome and so are you.
