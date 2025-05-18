@@ -5,6 +5,11 @@ nav_order: 2
 ---
 # LoreTrim
 
+{: .warning}
+> **WARNING**
+>
+>LORETRIM IS CURRENTLY UNAVAILABLE. IT MAY OR MAY NOT RETURN IN FUTURE
+
 Ok so what is LoreTrim exactly? It's LoreRim but with a bunch of mods removed while trying not to touch gameplay. **This is not a fully supported list**
 
 ## So whats changed?

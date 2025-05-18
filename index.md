@@ -3,7 +3,7 @@ title: Home
 layout: default
 nav_order: 1
 ---
-![Image]({{ site.baseurl }}/assets/logos/greybeards-circle.png)
+![Image]({{ site.baseurl }}/assets/logos/greybeards.png)
 
 LoreRim is complete overhaul of Skyrim Anniversary Edition, designed to modernize the visuals and combat of the game while also staying true to lore and bringing back gameplay mechanics from previous games. This modlist is heavily focused on immersion, role-playing and progression.
 
