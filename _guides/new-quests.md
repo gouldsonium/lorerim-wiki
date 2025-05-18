@@ -8,16 +8,13 @@ nav_order: 6
 
 Lorerim comes with several new quest mods, from expansions of vanilla quests to DLC-sized mods that expand upon the game. This guide will help indicate how to start them.
 
-## Beyond Skyrim: Bruma
+## Gray Cowl of Nocturnal
 
-![image](https://staticdelivery.nexusmods.com/mods/1704/images/84946-0-1498689983.jpg)
+![image](https://staticdelivery.nexusmods.com/mods/1704/images/141327/141327-1739121709-2136116341.jpeg)
 
-*Beyond Skyrim: Bruma* is a DLC-sized quest mod that adds a portion of Cyrodiil as a playable worldspace, comparable in size to the Dragonborn DLC. There are two main ways to access Bruma in Lorerim 2.0:
+For a long time no one claimed the Gray Cowl of Nocturnal. The last one was the Champion of Cyrodiil at the ending days of the Third Era. To begin the quest you need to complete the Thieves Guild faction questline and then steal an item.
 
-- Use the alternate start option to begin in Cyrodiil.
-- Travel directly to the border gate located south of Helgen. From there, you can either negotiate your way through the gate or use a nearby cave system.
-
-More detailed information on the cave location and a full walkthrough of the quests can be found on the [UESP Wiki](https://en.uesp.net/wiki/Beyond_Skyrim:Cyrodiil/Welcome_to_Cyrodiil) and the [Nexus Mods page](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=description).
+More detailed information on the [Nexus Mods page](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=description).
 
 ## Sirenroot - Deluge of Deceit
 
@@ -97,6 +94,15 @@ Uncover a small new questline that will take you to the frigid peaks of the Drag
 The Forgotten City is the first mod in history to win a national Writers' Guild award for its script. It is a critically acclaimed expansion mod offering a unique 6 - 8 hour experience: a murder mystery investigation set in an ancient underground city. You'll need to solve it using your wits, and the ability to travel through time...
 
 To start this quest you typically have to be level 5 however Lorerim uses the delayed start mod which increases this to **level 25**. You’ll be approached automatically by a courier when you enter any city. Alternatively, you can make your way to the "Forgotten Ruins" in the south-west corner of Skyrim.
+
+## Sleepwalking into a Nightmare
+
+![image](https://staticdelivery.nexusmods.com/mods/1704/images/141047/141047-1738866599-1615189626.png)
+
+Adds a new Daedric prince quest where you track down a missing woman, delving into her nightmares and overcoming her fears. Includes, new weapons, equipment and spells.
+
+To start the quest, speak with Ralforn in green-tip cabin, a new location north-east of Ivarstead, who will ask you for help to find his wife, Gretska.
+
 
 ## Other Quests
 
