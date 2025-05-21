@@ -15,9 +15,6 @@ nav_order: 2
 ### Better Third Person Selector
 - **Allowed Modifications:** Enabling/disabling features should be fine.
 
-### Leveling Freedom, Experience, Static Skill Leveling
-- **Allowed Modifications:** You can use these to tweak your XP/skill gain if you don't like my settings.
-
 ### Smoothcam
 - **Allowed Modifications:** Selecting a preset, modifying the shoulder swap key, etc.
 
@@ -32,9 +29,6 @@ nav_order: 2
 
 ### Wintersun Faiths
 - **Allowed Modifications:** Changing devotion gain/loss rates, disabling apostasy.
-
-### Requiem
-- **Allowed Modifications:** Turning off smithing skill book requirements.
 
 ## Important Notes
 
