@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contribute to the Wiki
-nav_order: 3
+nav_order: 4
 ---
 # Want to help?
 
