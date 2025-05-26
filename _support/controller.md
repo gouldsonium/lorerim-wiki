@@ -18,7 +18,7 @@ The mod is designed to work with the default steam controller layout. If you hav
 
 **3. Open your current layout and swap it to the recommended layout**
 
-![Image]({{ site.baseurl }}/assets/support/controller/manage.png)
+![Image]({{ site.baseurl }}/assets/support/controller/recommended.png)
 
 Complete Controller Setup has a number of layouts, which can be chosen by reinstalling the mod through MO2 and selecting the desired options.
 
