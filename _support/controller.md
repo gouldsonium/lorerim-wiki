@@ -4,7 +4,7 @@ title: Controller Support
 nav_order: 3
 ---
 # Controller Set Up and Installation Guide
-###### By theDudeStandard & Emppaxis
+###### By theDudeStandard, Emppaxis & ROYGBIV
 
 As of Lorerim 4.0, Complete Controller Setup is included for controller support. [Nexus Link Here](https://www.nexusmods.com/skyrimspecialedition/mods/99978)
 
@@ -24,6 +24,7 @@ Complete Controller Setup has a number of layouts, which can be chosen by reinst
 
 ![Image]({{ site.baseurl }}/assets/support/controller/reinstall.gif)
 
+**Note:** Ensure both Complete Controller Setup and Gamepad++ are enabled in MO2
 
 To see the controls of your chosen layout in game, check out the Complete Controller Setup MCM menu, every single action is described there.
 
