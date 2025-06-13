@@ -82,15 +82,15 @@ Installing LoreRim is relatively easy and, if you have Nexus Premium, will be a 
 Prior to installing LoreRim, please complete the following steps.
 
 
-1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) & [.Net Runtime v8 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.17-windows-x64-installer)
-2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
-3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside \Documents\My Games\.
-4. Fully disable OneDrive and any other programs which hook into user file areas.
-5. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
-6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
-7. Launch the game to the main menu and allow it to download the paid addon files. **DO NOT VERIFY YOUR GAME FILES**. If you are having trouble with installing Creation Club content checkout our [missing downloads guide](/support/missing-downloads/)
-8. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
-9. I recommend temporarily disabling Windows Defender during the download process if you get a false positive for DyndoLOD. DyndoLOD is safe, it is NOT a Trojan. Either that, or add an exception to the download path.
+1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+2. Install BOTH [.Net Runtime v6 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.36-windows-x64-installer) & [.Net Runtime v9 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-9.0.6-windows-x64-installer) then RESTART YOUR PC
+3. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+4. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside \Documents\My Games\.
+5. Fully disable OneDrive and any other programs which hook into user file areas.
+6. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
+7. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
+8. Launch the game to the main menu and allow it to download the paid addon files. **DO NOT VERIFY YOUR GAME FILES**. If you are having trouble with installing Creation Club content checkout our [missing downloads guide](/support/missing-downloads/)
+9. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
 
 ***
 
