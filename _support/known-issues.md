@@ -15,7 +15,7 @@ There are some issues which may occur thanks to good old Skyrim jank. If you've 
 
 - Vanilla issue: Sometimes Varona is still alive in Reluctant Steward. You can kill her and progress the quest via console.
 
-- Missives sometimes bugs out with gathering quests. I recommend not picking them up. 
+- Missives sometimes bugs out with gathering quests. I recommend not picking them up.
 
 - Crash on loading/changing cells: This can sometimes happen randomly due to either DynDOLOD DLLs and Lux. Please only report if these are repeatable. You can minimize these by setting page file, updating drivers and getting pre-requisites per GitHub.
 
@@ -33,10 +33,12 @@ There are some issues which may occur thanks to good old Skyrim jank. If you've 
 
 - Staff of Magnus Bug: Can't equip it immediately sometimes. Storing it in the quest item storage (press shift while hovering over it) and retrieving it from the mcm menu will fix this.
 
-- ENB "issue": Odd reflections and/or glow on materials. Using COC commands a lot or alt-tabbing during loading screens can cause dynamic cubemaps to get wonky. If you start having texture oddities, just exit the game and clear your overwrite folder. 
+- ENB "issue": Odd reflections and/or glow on materials. Using COC commands a lot or alt-tabbing during loading screens can cause dynamic cubemaps to get wonky. If you start having texture oddities, just exit the game and clear your overwrite folder.
 
 - Potions Require Bottles: It might seem like your game freezes when you run out of potions. It doesn't. Just press the space bar.
 
 - Serving Time. It might seem like your game is frozen. It isn't. Requiem just makes serving time take forever. Go grab coffee.
 
 - Lighting Crash: Game CAN CRASH when too many lights are on. Wearing too many lanterns, light backpacks, etc make this more common.
+
+- Achivements: While most achivements can be unlocked while playing Lorerim, some are broken due to mods changing the core game logic which triggers them. Confirmed unobtainable achievements as of Lorerim 4.0 are Werewolf Mastered and Oblivion Walker.
