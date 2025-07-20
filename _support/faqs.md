@@ -61,6 +61,11 @@ Please checkout these FAQs before posting your question to the discord
 ### How to prevent followers from dying?
 - In Requiem MCM settings, turn off Requiem's essential/protected handling system.
 
+### Where are the dragons?
+- Go to Helgen and stay a night at the inn to start the main story. From here continue as you normally would
+  to get dragons to start spawning, by going through the Bleak Falls Barrow quest, etc.
+- Alternatively you can go behind the inn at Helgen. There you can find a dragon you can talk to that let's you skip through the intro.
+
 ### I crash on my potato?
 - At the end of the day, LoreRim has mid-spec requirements for the normal profile and high-end for Ultra.
 - If you don't meet these, I can't do much for you unfortunately.
