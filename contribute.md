@@ -12,4 +12,4 @@ Be sure to checkout the the Github repo and click the issues tabe where you can 
 
 ## More to come
 
-We'd like to go more in depth into the lists perks, spells, followers, quests and more to make it as easy as possible for players to find what they need. If you can, feel free to requets a change.
+We'd like to go more in depth into the lists perks, spells, followers, quests and more to make it as easy as possible for players to find what they need. If you can, feel free to request a change.
