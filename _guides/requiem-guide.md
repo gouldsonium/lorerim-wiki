@@ -28,7 +28,6 @@ Requiem is a project with the goal of turning Skyrim into a better roleplaying e
 - **Level 31-40**: Fight forsworn and massive creatures.
 - **Level 41-50**: Fight vampires and boss monsters.
 - **Level 51+**: By this level, you should be able to fight anything.
-- Craft lantern fuel at cooking stations, use it with an empty lantern to create a lantern to use with quick light.
 - If playing with survival mode, make sure to be rested and well-fed.
 
 ## LoreRim Changes from Vanilla Requiem
