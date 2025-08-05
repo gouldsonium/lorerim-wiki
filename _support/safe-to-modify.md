@@ -13,6 +13,9 @@ nav_order: 2
 ### ReShade
 - Make sure to disable frame generation when using this mod as they are mutually exclusive. This also comes with a performance hit.
 
+### ENB Options
+- Disable the existing ENB before re-enabling another one. I also recomemnd you go to the bottom of MO2, right click the "Overwrite" section and clear overwrite folder. This will clear the ENB cache.
+
 ### Optional Gameplay Mods
 - **Smooth Random Sprint** has a more modern sprint animation. Can be disabled at anytime.
 - **JellyFishFP Movement** causes first person camera bobbing when walking. Disable at anytime if you don't like it.
