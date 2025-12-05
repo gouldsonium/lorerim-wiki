@@ -173,7 +173,7 @@ LoreRim also utilizes Root Builder alongside Stock Game to enable easier managem
 
 ### XMP/EXPO/RAM OVERCLOCKING:
 
-Skyrim is an old game and very memory sensitive. I DO NOT RECOMMEND enabling XMP/EXPO or overclocking your RAM while playing it. You can check if XMP/EXPO is enabled in your motherboard's BIOS settings.
+Skyrim is an old game and very memory sensitive. I DO NOT RECOMMEND enabling XMP/EXPO or overclocking your RAM while playing it if you experience instability. You can check if XMP/EXPO is enabled in your motherboard's BIOS settings.
 
 ### OPTIONAL MODS - ULTRAWIDE SUPPORT & PERFORMANCE:
 
@@ -201,13 +201,13 @@ Make sure the dropdown box on the right is set to `LoreRim` and press the `Run` 
 
 LoreRim has no required MCM options to be selected; however, you can load the smoothcam preset if you wish to do so.
 
-You are welcome to change any others to achieve your desired setup.
+You are welcome to change any others to achieve your desired setup. Keep in mind, disabling features may void modlist support as it can break things. Changing hotkeys is always safe.
 
 ### Starting the Game & Important Information
 
 After creating your character, everything will be automated. You will be prompted to choose your starting skills, birthsign, traits and starting location.
 
-Birthsigns are permanent. Each birthsign becomes stronger when you max a certain skill or skills. These replace vanilla standing stones.
+Birthsigns are permanent. Each birthsign becomes stronger when you max a certain skill or skills. These are in addition to standing stones, which now provided smaller bonuses.
 
 You can pick 3 major and 5 minor skills. Major skills give +10 skill bonuses and determine your starting gear. Minor skills give +5 skill bonus.
 
@@ -238,16 +238,21 @@ You can unlock use of a secondary dagger (pulling out a dagger when using your b
 
 "Crashing" on loading can occur on any modlist and is not recommended for modded Skyrim. Instead, I highly encourage utalizing the built-in death alternative mod. This prevents needing to reload on death.
 
-Wheeler can cause crashes when assigning self-made potions/poisons/etc and using your last one. If this happens, press home to open dmenu and navigate to wheeler and "reset all wheels".
+For a list of known issues (whether they be vanilla Skyrim related or mod limitations) please visit our Discord.
  
 ## Updating the modlist
 
 Before updating, please check the changelog and back up your saves. You may need to start a new game after certain updates.
 
-Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating.
+Updating is exactly like installing the list, only new files will be downloaded. On old (pre-4.0) versions of Wabbajack make sure to tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating unless you add "[NoDelete]" to the front of the mod. 
 
 ## Removing the Modlist
+
 Simply delete the folder, and you have uninstalled it.
+
+## Changelog
+
+The changelog is located in Discord only. 
 
 ## Credits and Thanks
 
